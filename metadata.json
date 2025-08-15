@@ -1,6 +1,6 @@
 {
   "name": "Window Monitor Pro",
-  "description": "Advanced window monitoring extension with D-Bus signals for real-time window change notifications. Provides window list, focus tracking, and property monitoring. Perfect for automation tools and window management.",
+  "description": "Advanced window monitoring extension with real-time D-Bus signals for window change notifications. Get focused window title, class, PID, and ID instantly. Perfect for automation tools, window managers, and productivity workflows. Supports both polling methods and real-time signals. Ideal for Wayland environments and integration with tools like espanso for app-specific text expansion.",
   "uuid": "window-monitor-pro@muhammed.hussien2030.gmail.com",
   "shell-version": [
     "45",
@@ -8,6 +8,34 @@
     "47",
     "48"
   ],
-  "version": 9,
-  "url": "https://github.com/dev-muhammad-adel/window-calls-extended"
+  "version": 10,
+  "url": "https://github.com/dev-muhammad-adel/window-calls-extended",
+  "keywords": [
+    "window",
+    "monitor",
+    "focus",
+    "dbus",
+    "automation",
+    "wayland",
+    "productivity",
+    "window-management",
+    "real-time",
+    "signals"
+  ],
+  "author": "Muhammed Hussien",
+  "author-email": "muhammed.hussien2030@gmail.com",
+  "original-author": "Hendrik G. Seliger (github@hseliger.eu)",
+  "contributors": [
+    "ickyicky (original Window Calls extension)",
+    "dceee (signal implementation example)"
+  ],
+  "homepage": "https://github.com/dev-muhammad-adel/window-calls-extended",
+  "bug-tracker": "https://github.com/dev-muhammad-adel/window-calls-extended/issues",
+  "donations": "https://github.com/dev-muhammad-adel/window-calls-extended",
+  "settings-schema": null,
+  "gettext-domain": "window-monitor-pro",
+  "contact": {
+    "github": "https://github.com/dev-muhammad-adel",
+    "linkedin": "https://www.linkedin.com/in/dev-muhammad-adel/"
+  }
 }
