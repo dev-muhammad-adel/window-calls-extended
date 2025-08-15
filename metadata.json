@@ -1,13 +1,13 @@
 {
-  "name": "Window Calls Extended",
-  "description": "Add new dbus call for windows to get windows list and some of theirs properties, plus details on window under focus. Can be used by tools such as espanso.",
-  "uuid": "window-calls-extended@hseliger.eu",
+  "name": "Window Monitor Pro",
+  "description": "Advanced window monitoring extension with D-Bus signals for real-time window change notifications. Provides window list, focus tracking, and property monitoring. Perfect for automation tools and window management.",
+  "uuid": "window-monitor-pro@muhammed.hussien2030.gmail.com",
   "shell-version": [
     "45",
     "46",
     "47",
     "48"
   ],
-  "version": 8,
-  "url": "https://github.com/hseliger/window-calls-extended"
+  "version": 9,
+  "url": "https://github.com/dev-muhammad-adel/window-calls-extended"
 }
